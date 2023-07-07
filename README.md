@@ -1,2 +1,2 @@
 # Javascript
- Javascript exercicios
+ Javascript exercicios!
